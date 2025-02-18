@@ -1,0 +1,9 @@
+*{
+    width: 500px;
+    height: 700px;
+}
+
+.par h1 {
+    color: aqua;
+    background-color: #c1c1c1;
+}
